@@ -1,5 +1,6 @@
 class Solution(object):
     def twoSum(self, nums, target):
+        # EASY QUESTION
         """
         :type nums: List[int]
         :type target: int

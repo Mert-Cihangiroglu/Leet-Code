@@ -1,5 +1,6 @@
 class Solution(object):
     def containsDuplicate(self, nums):
+        # EASY QUESTION
         """
         :type nums: List[int]
         :rtype: bool

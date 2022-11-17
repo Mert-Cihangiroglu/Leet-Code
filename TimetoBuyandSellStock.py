@@ -1,5 +1,6 @@
 class Solution(object):
     def maxProfit(self, prices):
+        # EASY QUESTION
         """
         :type prices: List[int]
         :rtype: int
