@@ -4,6 +4,7 @@ class Solution(object):
         :type prices: List[int]
         :rtype: int
         """
+        # find local min and search for local max, sliding window;
         l, r = 0, 1 # Left and Right Pointers, Left = Buy, Right = Sell
         max_p = 0   # Max Profit
         
